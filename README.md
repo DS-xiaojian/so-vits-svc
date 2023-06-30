@@ -30,11 +30,9 @@
 ## Branches
 - [main](https://github.com/PlayVoice/so-vits-svc-5.0) : whisper medium + hifigan
 
-- [bigvgan](https://github.com/PlayVoice/so-vits-svc-5.0/tree/bigvgan) : whisper medium + bigvgan
-
 - [bigvgan-large-v2](https://github.com/PlayVoice/so-vits-svc-5.0/tree/bigvgan-large-v2) : whisper large v2 + bigvgan
 
-- [bigvgan-mix](https://github.com/PlayVoice/so-vits-svc-5.0/tree/bigvgan-mix) : bigvgan + mix encoder: whisper + hubert + wavlm + ...; Kids make choices, Adults do it all.
+- [bigvgan-mix-v2](https://github.com/PlayVoice/so-vits-svc-5.0/tree/bigvgan-mix-v2) : bigvgan + mix encoder: whisper large v2 + hubert (+ wavlm + ...); Kids make choices, Adults do it all.
 
 ## Model properties
 
